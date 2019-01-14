@@ -1,6 +1,6 @@
-# swc-jupyter-sampler
+# swc-materials
 
-#### notebooks
+#### example notebooks
 
 - __Political Science:__ https://github.com/hodgesmr/election_map_tutorial/blob/master/Election_Map_Tutorial.ipynb
 - __Music:__ https://github.com/psychemedia/showntell/blob/music/index_music.ipynb
