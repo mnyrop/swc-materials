@@ -12,6 +12,7 @@
 - __Literature:__ https://github.com/JonathanReeve/late-style-PCA/blob/master/late-style-PCA.ipynb
 - __Earth Science + Machine Learning:__ https://github.com/sentinel-hub/eo-learn/blob/master/examples/tree-cover-keras/tree-cover-keras.ipynb
 - __Philology:__ https://github.com/clemsciences/old_norse_notebook/blob/master/runic-package.ipynb
+- __History:__
 
 #### etc.
 - https://blog.jupyter.org/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science-2b5fb94c3c58
