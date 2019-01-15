@@ -1,22 +1,4 @@
-
-
-
-# Columbia University x Software Carpentries<br> GROUP
-
-__Bootcamp Site:__ 
-
-__Instructors:__
-
-- 
--
-
-__Helpers:__
-- 
--
--
-
 # Contents
-- [Schedule](#schedule)
 - [Setup](#setup)
 - [1: The Unix Shell](#section-1--the-unix-shell)
   + [Introducing the Shell](#introducing-the-shell)
