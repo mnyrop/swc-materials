@@ -17,12 +17,6 @@ __Setup check in:__
 - [ ] Do you have a [GitHub account](https://github.com/join)?
 - [ ] Do you have 2 color post-its?
 
-__Setup resources:__
--
--
--
-
-
 # Section 1 :: The Unix Shell
 
 ## Introducing the Shell
