@@ -47,21 +47,34 @@
 
 - [ ] `ls`
 - [ ] `ls -F`
+
+Either --help OR man will work
 - [ ] `ls --help`
 - [ ] `man ls`
-- [ ] `ls -j`
-- [ ] `ls -l`
-- [ ] `ls -R`
+
+Try different flags
+- [ ] `ls -j`# will fail
+- [ ] `ls -l` # 'long'
+- [ ] `ls -R`# 'recursive'
+
+Revisit
 - [ ] `ls -F Desktop`
 - [ ] `pwd`
+
+Change directories
 - [ ] `cd desktop` or `cd Desktop`
+- [ ] `cd swc-materials`
 - [ ] `cd data-shell`
 - [ ] `cd data`
+
+Move up
 - [ ] `cd ..`
-- [ ] `cd ~/Desktop/swc-materials/data-shell/data` or `cd ~/Desktop/swc-materials/data-shell/data`
+
+Move absolutely vs relatively
+- [ ] `cd ~/Desktop/swc-materials/data-shell/data`
 - [ ] `cd /`
 - [ ] `cd ~`
-- [ ] `cd -`
+- [ ] `cd -` # like the back button
 
 #### Activity:
 
@@ -78,23 +91,40 @@
 ### Try
 - [ ] Go back to `data-shell` by checking where you are `pwd`and using `cd`
 - [ ] Check what's in `data shell` with `ls -F`
+
+Make a directory
 - [ ] Make a new directory called 'thesis' `mkdir thesis`
+
 - [ ] Check what's in the directory again `ls -F`
 - [ ] Nothing is in `thesis` because it's brand new. Check with `ls -F thesis`
 - [ ] Move into `thesis` with `cd thesis`
+
+Make a file with nano
 - [ ] Use Nano to add and edit a file `nano draft.txt`. Add some lines of text, then use __Ctrl-X__ to exit.
-- [ ] Go to your home directory and make a file using touch. `cd ~` followed by `touch my_file.txt`
-- [ ] Use `ls -l` to inspect the files. How large is `my_file.txt`? Why?
-- [ ] Move back into `thesis` in `data-shell` with `cd` and remove the draft file with rm `rm draft.txt` using tab completion. But be careful!
+
+Make a file with touch
+- [ ] Make a file using touch. `touch my_file.txt`
+- [ ] Use `ls -l` to inspect the files. How large is`my_file.txt`? Why?
+
+Remove a file
+- [ ] Remove the draft file with rm `rm draft.txt` using tab completion. But be careful!
 - [ ] Run `ls` to see if the file is still there.
-- [ ] Re-add the file and move back into `data-shell` with `nano draft.txt`, `ls`, and `cd ..`
+
+Try removing a directory
+- [ ] Move back into `data-shell` with `cd ..`
 - [ ] Try removing `thesis` with `rm thesis`. What happens?
 - [ ] Type out `rm -r thesis` for removing the directory recursively. But don't hit enter! We're not ready to delete it yet.
 - [ ] Instead try removing the directory safely with `rm -r -i thesis`. Type `y` for each file to delete.
-- [ ] Make the `thesis` directory in `data-shell`again by checking where you are `pwd`and using `mkdir thesis`
+
+
+- [ ] Make the `thesis` directory in `data-shell` again by checking where you are `pwd`and using `mkdir thesis`
 - [ ] Remake the file `draft.txt` with nano `nano thesis/draft.txt`
+
+Rename a file
 - [ ] Change the filename of `draft.txt` to `quotes.txt` using `mv thesis/draft.txt thesis/quotes.txt`
 - [ ] Check what happened with `ls thesis`
+
+Move a file
 - [ ] Move `quotes.txt` into the current working directory with `mv thesis/quotes.txt .`
 - [ ] See what's in `thesis` with `ls thesis`
 - [ ] Find `quotes.txt` in the current working directory with `ls`
