@@ -1,32 +1,10 @@
-# Contents
-- [Setup](#setup)
-- [1: The Unix Shell](#section-1--the-unix-shell)
-  + [Introducing the Shell](#introducing-the-shell)
-  + [Navigating Files and Directories](#navigating-files-and-directories)
-  + [Working with Files and Directories](#working-with-files-and-directories)
-  + [Pipes and Filters](#pipes-and-filters)
-  + [Loops](#loops)
+# Table of Contents
 
-# Setup / Check-In
-
-
-__On your own:__
-
-- [ ] Do you have a [GitHub account](https://github.com/join)?
-- [ ] Do you have 2 color post-its?
-
-__Together:__
-
-- [ ] Open your terminal/shell.
-- [ ] Type `nano --version` and hit enter.
-- [ ] Type `git --version` and hit enter.
-- [ ] Type `jupyter --version` and hit enter.
-- [ ] Type `python --version` and hit enter.
-
-- [ ] Do you have the necessary software (Bash, Git, and Python) installed?
-- [ ] Do you have [Jupyter notebooks](https://jupyter.org/install) installed? (You can check by opening a Terminal and entering the command `jupyter notebook`. This should open a browser.)
-- [ ] Do you have the demo data for [bash](http://swcarpentry.github.io/shell-novice/setup.html) and [python](https://swcarpentry.github.io/python-novice-inflammation/setup/) downloaded?
-
++ [Introducing the Shell](#introducing-the-shell)
++ [Navigating Files and Directories](#navigating-files-and-directories)
++ [Working with Files and Directories](#working-with-files-and-directories)
++ [Pipes and Filters](#pipes-and-filters)
++ [Loops](#loops)
 
 # Section 1 :: The Unix Shell
 
