@@ -10,27 +10,30 @@
 
 ## Introducing the Shell
 
-
-#### Questions:
-- What is a command shell and why would I use one?
-
 #### Notes:
+
 - Graphical User Interface (GUI) versus Command Line Interface (CLI)
 - Read-evaluate-print-loop (REPL)
 - Command, flag, argument
 - Flexibility and automation
 
+
 #### Try
 
 - [ ] `pwd`
-- [ ] `ls -F /`
+- [ ] `ls`
+- [ ] `ls -F`
+- [ ] `ls -F Desktop`
+
+
+#### Slides
+- [Command Syntax](https://slides.com/marii/cul-swc-python/#/0/1)
+- [Commands](https://slides.com/marii/cul-swc-python/#/0/2)
+
+
 
 ## Navigating Files and Directories
 
-#### Questions:
-- How can I move around on my computer?
-- How can I see what files and directories I have?
-- How can I specify the location of a file or directory on my computer?
 
 #### Notes:
 - File system hierarchy
@@ -55,7 +58,7 @@
 - [ ] `cd data-shell`
 - [ ] `cd data`
 - [ ] `cd ..`
-- [ ] `cd ~/desktop/data-shell/data` or `cd ~/Desktop/data-shell/data`
+- [ ] `cd ~/Desktop/swc-materials/data-shell/data` or `cd ~/Desktop/swc-materials/data-shell/data`
 - [ ] `cd /`
 - [ ] `cd ~`
 - [ ] `cd -`
@@ -66,11 +69,6 @@
 - [ ] enter the command `ls north-pacific-gyre/2012-07-03/` using tab completion
 
 ### Working With Files and Directories
-
-
-#### Questions:
-- How can I create, copy, and delete files and directories?
-- How can I edit files?
 
 ### Notes
 - Naming conventions for files and directories
