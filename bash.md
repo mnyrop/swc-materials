@@ -1,4 +1,4 @@
-# Table of Contents
+### Table of Contents
 
 + [Introducing the Shell](#introducing-the-shell)
 + [Navigating Files and Directories](#navigating-files-and-directories)
@@ -6,7 +6,7 @@
 + [Pipes and Filters](#pipes-and-filters)
 + [Loops](#loops)
 
-# Section 1 :: The Unix Shell
+# The Unix Shell
 
 ## Introducing the Shell
 
